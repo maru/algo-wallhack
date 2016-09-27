@@ -1,6 +1,6 @@
 algo-wallhack
 =============
 
-Programming questions of course "Algorithms: Design and Analysis"
+Programming questions of "Algorithms: Design and Analysis" course
 
 Code in python
